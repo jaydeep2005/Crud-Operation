@@ -72,10 +72,3 @@ crud-operation/
 ├── message.php
 └── README.md
 ```
-
-## 📬 Author
-
-**Jaydeep**
-Student Developer | PHP & MySQL Enthusiast
-
----
