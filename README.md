@@ -1,6 +1,3 @@
-Here’s a well-structured and polished version of your `README.md` file for your PHP + MySQL CRUD Operation project:
-
----
 
 # Student Management - CRUD Operation (PHP + MySQL)
 
