@@ -79,5 +79,3 @@ crud-operation/
 Student Developer | PHP & MySQL Enthusiast
 
 ---
-
-Let me know if you'd like this saved as a new file or directly updated into your current `README.md`.
